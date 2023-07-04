@@ -1,0 +1,11 @@
+.redes__item{
+    list-style: none;/*Con este le quito los puntos por defecto de las listas*/
+    position: relative;
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+.redes__item a {
+    display: inline-block;
+}
+

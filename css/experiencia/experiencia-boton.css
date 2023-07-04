@@ -1,0 +1,18 @@
+.experiencia__boton {
+    /* Estilos para el botón */
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    display: flex;
+    
+  }
+  
+  .experiencia__boton:hover {
+    /* Estilos para el botón al pasar el cursor por encima */
+    background-color: #ccc;
+    color: #fff;
+  }
+  

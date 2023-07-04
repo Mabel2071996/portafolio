@@ -1,0 +1,10 @@
+.experiencia_1 {
+    text-align: center;
+    height: 100vh; /* Ajusta el alto según tus necesidades */
+  }
+  
+  .experiencia__titulo,
+  .subtitulo {
+    display: inline-block;
+    font-size: 20px;
+  }

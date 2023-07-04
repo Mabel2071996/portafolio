@@ -1,0 +1,15 @@
+.curriculum__boton{
+    border-radius: 30px;
+    background: #1A5276;
+    color:#eeee;
+    border:none;
+    font-size: 14px;
+    cursor: pointer;
+    width: 100px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+}
+.curriculum__boton:hover{
+    color:black;
+    background: #D6EAF8;
+    font-size: 18px;
+}

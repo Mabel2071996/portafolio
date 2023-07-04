@@ -1,0 +1,14 @@
+.skills__titulo{
+    font-size: 25px; ;
+    text-decoration: none;
+    color:rgb(27, 26, 29);
+    padding-left: 55px;
+}
+    
+       
+.skills__titulo:hover{
+    font-size: 30px;
+    text-decoration: none;
+    color:#eee;
+    
+}

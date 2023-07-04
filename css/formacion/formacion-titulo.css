@@ -1,0 +1,14 @@
+.formacion__titulo{
+    font-size: 16px; ;
+    text-decoration: none;
+    color:rgb(27, 26, 29);
+    padding-left: 17%;
+}
+    
+       
+.formacion__titulo:hover{
+    font-size: 22px;
+    text-decoration: none;
+    color:#eee;
+    
+}

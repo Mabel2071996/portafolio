@@ -1,0 +1,13 @@
+.experiencia__title{
+    font-weight: bold;
+    font-size: 35px;
+    text-decoration: none;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    align-items: center;
+    
+}
+.experiencia__title:hover{
+    color:blanchedalmond;
+    font-size: 38px;
+}

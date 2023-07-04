@@ -1,0 +1,9 @@
+.experiencia{
+    display: flex;
+    margin-bottom: 30rem;/*con este separo una tarjeta de la otra*/
+    /*con este disminuyo el espacio que ocupa cada tarjeta*/
+    width: 25px;
+    flex-direction: column;
+    padding-left: 20%;
+   
+}

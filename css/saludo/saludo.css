@@ -1,0 +1,77 @@
+
+.saludo{
+    font-weight: bold;
+    font-size: 50px;
+    text-decoration: none;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+    margin-top: 0;
+    flex-direction: column;
+    margin-left:30px ;
+    
+    
+}
+
+.saludo:hover{
+    color: #7B1FA2;
+    
+}
+
+.saludos {
+    display: flex;
+    align-items: center;
+}
+
+.imagen-saludo {
+    display: inline-block;
+    width: 50px; /* Ajusta el tamaño de la imagen según tus necesidades */
+    height: 50px;
+    margin-left: 60px;
+}
+
+.saludo-hola {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 70px;
+    text-decoration: none;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+    margin-top: 50px; 
+   
+    
+}
+.container {
+    margin-top: 2px; /* Ajusta el margen superior para acercar el div container */
+}
+
+
+
+.quien-soy{
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+    text-align: center;
+   
+}
+
+
+.saludo .bandera {
+    width: 8%; 
+    height: 90%;
+    right: 30px;
+    margin-top: 300px;
+}
+.saludo .imageninicial {
+    border-radius: 100%;
+    width: 80%;
+    padding-top: 0;
+    flex-direction: column;
+    padding-left: 60px;
+    
+    
+    
+}
+
+.imageninicial {
+    box-shadow: 2px 2px 4px rgba(94, 65, 138, 0.5);
+}
+

@@ -1,0 +1,36 @@
+.caja {
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+    
+}
+
+.header {
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+body {
+    background-image: url("../imagenes/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+.mabel{
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+    margin-left: 180px;
+    padding-top: 80px;
+}
+.mabel:hover{
+    color: #7B1FA2;
+    font-size: 28px;
+}
+
+

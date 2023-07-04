@@ -1,0 +1,27 @@
+.redes__link{
+    color: #3e1449;
+    margin-right: 1.25rem;/*con esta doy espacio entre cada palabra del menu*/
+    text-decoration: none; /*aqui estoy quitando el subrayado*/
+    font-family:Bacasime+Antique ;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+    padding-left: 70px;
+    padding-right: 5px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    
+}
+
+.redes__link:hover{ /*aqui estoy haciendo que cuando el mouse se posicione encima se subraye*/
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 26px;
+    color:#1565C0;
+}
+
+.redes__link span {
+    margin-left: 5px;
+}
